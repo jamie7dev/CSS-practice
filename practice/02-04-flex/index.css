@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+.flex-container {
+  background-color: gray;
+  height: 300px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: stretch;
+}
+
+.flex-container div {
+  background-color: white;
+  border: 1px solid red;
+}
