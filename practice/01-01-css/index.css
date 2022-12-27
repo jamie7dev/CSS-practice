@@ -1,0 +1,18 @@
+.title {
+  color: tomato;
+}
+
+.box1 .title {
+  color: olivedrab;
+}
+
+.contents {
+  font-size: 28px;
+  font-style: italic;
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+.title#headline {
+  color: violet;
+}

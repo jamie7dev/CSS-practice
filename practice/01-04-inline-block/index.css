@@ -1,0 +1,17 @@
+.block-container {
+  border: 3px solid blue;
+}
+.inline-container {
+  border: 3px solid red;
+}
+
+.block-container div {
+  border: 3px solid pink;
+  width: 400px;
+  display: inline;
+}
+.inline-container span {
+  background-color: skyblue;
+  width: 400px;
+  display: block;
+}
