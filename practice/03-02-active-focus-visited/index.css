@@ -1,0 +1,13 @@
+
+.input1:active {
+    background: green;
+}
+.link1:visited {
+    color: red;
+}
+.button1:hover {
+    background: blue;
+}
+.button1:active {
+    background-color: red;
+}
