@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&family=Rubik+Bubbles&display=swap');
+
+div {
+    font-family: 'Jua', sans-serif;
+    font-family: 'Rubik Bubbles', cursive;
+    font-size: 30px;
+}

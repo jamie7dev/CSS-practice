@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    color: cadetblue;
+    font-size: 30px;
+    font-weight: bold;
+    border: 2px solid lightsalmon;
+}
+
+.inner-box {
+    color: deeppink;
+}
