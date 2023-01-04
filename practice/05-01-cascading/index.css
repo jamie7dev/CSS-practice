@@ -1,0 +1,15 @@
+* {
+    background: oldlace;
+}
+
+div{
+    background: lightpink;
+}
+
+.text-class {
+    background: forestgreen;
+}
+
+#text-id {
+    background: lavender;
+}
